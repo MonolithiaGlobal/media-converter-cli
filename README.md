@@ -6,7 +6,7 @@ Bundles `ffmpeg` via `ffmpeg-static`, so no separate ffmpeg installation is need
 ## Installation
 
 ```bash
-npm install -g media-converter-cli
+npm install -g @monolithia/media-converter-cli
 ```
 
 ## Usage

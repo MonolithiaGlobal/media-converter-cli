@@ -1,5 +1,5 @@
 {
-  "name": "media-converter-cli",
+  "name": "@monolithia/media-converter-cli",
   "version": "1.0.0",
   "description": "CLI tool to convert MP4 files to MP3 — individually or in bulk",
   "main": "bin/cli.js",
@@ -20,8 +20,11 @@
     "video",
     "bulk"
   ],
-  "author": "",
+  "author": "Monolithia Global",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "engines": {
     "node": ">=14.0.0"
   },
